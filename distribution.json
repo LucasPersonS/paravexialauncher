@@ -9,6 +9,10 @@
             "version": "1.0.3",
             "address": "jogar.paravexia.com.br",
             "minecraftVersion": "1.21.1",
+            "javaOptions": {
+                "supported": ">=21.x",
+                "suggestedMajor": 21
+            },
             "mainServer": true,
             "autoconnect": false,
             "modules": [
